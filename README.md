@@ -14,7 +14,7 @@ Requirements:
 9. This program isn't supposed to make you rich in 2 bets, it just uses a simple mathematical algorithm to keep you on profit.
 10. You can watch Netflix on the other monitor, if you're rich enough to have one.
 
-There might be something I forgot, but I guess you'll find out how to fix it yourselves, the source code is there.
+There might be something I forgot, but I guess you'll find out how to fix it yourselves, the source code is here.
 
 
 
